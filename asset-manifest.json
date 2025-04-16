@@ -1,16 +1,39 @@
 {
   "files": {
-    "main.css": "/static/css/main.4efb5802.css",
-    "main.js": "/static/js/main.c9f5d813.js",
+    "main.css": "/static/css/main.c9851f44.css",
+    "main.js": "/static/js/main.6de52a6b.js",
     "static/js/592.be9d5058.chunk.js": "/static/js/592.be9d5058.chunk.js",
+    "static/media/reestr.png": "/static/media/reestr.a453eaf47058abeadb4e.png",
+    "static/media/dashboards.png": "/static/media/dashboards.104cda2b7147ab7b79f7.png",
+    "static/media/stageInfoGlass.png": "/static/media/stageInfoGlass.e0182b1d322b99ddaced.png",
+    "static/media/info.png": "/static/media/info.0298d96d43bc96276715.png",
+    "static/media/d4.png": "/static/media/d4.c78d7e2be1406e33c40e.png",
+    "static/media/stageInfo.png": "/static/media/stageInfo.4959d0dba8311a252629.png",
+    "static/media/infoGlass.png": "/static/media/infoGlass.97fc336e2e79e59c8616.png",
+    "static/media/g1.png": "/static/media/g1.8c4c4050457e98886cec.png",
+    "static/media/g2.png": "/static/media/g2.463d2bf23f884c0d0151.png",
+    "static/media/d2.png": "/static/media/d2.058a6ec04113c604563a.png",
+    "static/media/d1.png": "/static/media/d1.422b119ffd6a5734398e.png",
+    "static/media/d6.png": "/static/media/d6.29ed378b3dc531766d7e.png",
+    "static/media/d5.png": "/static/media/d5.b375174922a132269476.png",
+    "static/media/d3.png": "/static/media/d3.f4d3fab2722d29ac8c46.png",
+    "static/media/g1glass.png": "/static/media/g1glass.5b2e4d3550deda3b546d.png",
+    "static/media/d1glass.png": "/static/media/d1glass.2711567676c2cd5697b2.png",
+    "static/media/menu.png": "/static/media/menu.91cb40157754c9f17a9a.png",
     "static/media/logo.png": "/static/media/logo.b94544a244cda6124a43.png",
+    "static/media/menuButtonGlass.png": "/static/media/menuButtonGlass.e735e8ddacaad36b0035.png",
+    "static/media/menuButton4.png": "/static/media/menuButton4.f111d141bccdcf911624.png",
+    "static/media/menuButton3.png": "/static/media/menuButton3.29a80a681749bdf202f2.png",
+    "static/media/menuButton1.png": "/static/media/menuButton1.1655006f33bd27c00a12.png",
+    "static/media/menuButton2.png": "/static/media/menuButton2.52207621c3353e746729.png",
+    "static/media/logoNOXSYS.png": "/static/media/logoNOXSYS.36323e8c6b1a6b8c877a.png",
     "index.html": "/index.html",
-    "main.4efb5802.css.map": "/static/css/main.4efb5802.css.map",
-    "main.c9f5d813.js.map": "/static/js/main.c9f5d813.js.map",
+    "main.c9851f44.css.map": "/static/css/main.c9851f44.css.map",
+    "main.6de52a6b.js.map": "/static/js/main.6de52a6b.js.map",
     "592.be9d5058.chunk.js.map": "/static/js/592.be9d5058.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4efb5802.css",
-    "static/js/main.c9f5d813.js"
+    "static/css/main.c9851f44.css",
+    "static/js/main.6de52a6b.js"
   ]
 }
