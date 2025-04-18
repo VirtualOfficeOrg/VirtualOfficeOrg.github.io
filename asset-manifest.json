@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb3a0a85.css",
-    "main.js": "/static/js/main.aa5d3407.js",
+    "main.css": "/static/css/main.824e5fb7.css",
+    "main.js": "/static/js/main.32ba9aee.js",
     "static/js/592.be9d5058.chunk.js": "/static/js/592.be9d5058.chunk.js",
     "static/media/reestr.png": "/static/media/reestr.a453eaf47058abeadb4e.png",
     "static/media/dashboards.png": "/static/media/dashboards.104cda2b7147ab7b79f7.png",
@@ -28,12 +28,12 @@
     "static/media/menuButton2.png": "/static/media/menuButton2.52207621c3353e746729.png",
     "static/media/logoNOXSYS.png": "/static/media/logoNOXSYS.36323e8c6b1a6b8c877a.png",
     "index.html": "/index.html",
-    "main.fb3a0a85.css.map": "/static/css/main.fb3a0a85.css.map",
-    "main.aa5d3407.js.map": "/static/js/main.aa5d3407.js.map",
+    "main.824e5fb7.css.map": "/static/css/main.824e5fb7.css.map",
+    "main.32ba9aee.js.map": "/static/js/main.32ba9aee.js.map",
     "592.be9d5058.chunk.js.map": "/static/js/592.be9d5058.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb3a0a85.css",
-    "static/js/main.aa5d3407.js"
+    "static/css/main.824e5fb7.css",
+    "static/js/main.32ba9aee.js"
   ]
 }
