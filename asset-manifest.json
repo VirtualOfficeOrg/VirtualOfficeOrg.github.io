@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.543caf87.css",
-    "main.js": "/static/js/main.cb9a5dc4.js",
+    "main.css": "/static/css/main.e9693e44.css",
+    "main.js": "/static/js/main.304e0c4f.js",
     "static/js/592.be9d5058.chunk.js": "/static/js/592.be9d5058.chunk.js",
     "static/media/office.png": "/static/media/office.8a9d5668c9adeac5bcee.png",
+    "static/media/cert_it.jpg": "/static/media/cert_it.ad1abea97a7060303b37.jpg",
     "static/media/kate.png": "/static/media/kate.5ace32fc97d26b5bcdad.png",
+    "static/media/residentTP.jpg": "/static/media/residentTP.34a09f8a6decbf7a5b8e.jpg",
     "static/media/ice.png": "/static/media/ice.92df73cc1ca7412be251.png",
     "static/media/ios.png": "/static/media/ios.8ca6c1091635df6c6a03.png",
     "static/media/alex.png": "/static/media/alex.ad75a18027d42d47b342.png",
@@ -24,11 +26,15 @@
     "static/media/d3.png": "/static/media/d3.f4d3fab2722d29ac8c46.png",
     "static/media/g1glass.png": "/static/media/g1glass.5b2e4d3550deda3b546d.png",
     "static/media/kate_min.png": "/static/media/kate_min.f958ea2d08c5c0456818.png",
+    "static/media/qr-telegram-07.png": "/static/media/qr-telegram-07.1be0c545a573f9f3042b.png",
+    "static/media/qr-telegram-01.png": "/static/media/qr-telegram-01.98aa0297d49fda27d525.png",
     "static/media/ios_min.png": "/static/media/ios_min.1900e4aa5074171d2da3.png",
     "static/media/ice_min.png": "/static/media/ice_min.9af697b51e1f0c858c50.png",
     "static/media/alex_min.png": "/static/media/alex_min.55bd460866e0e2b7920e.png",
     "static/media/d1glass.png": "/static/media/d1glass.2711567676c2cd5697b2.png",
     "static/media/menu.png": "/static/media/menu.91cb40157754c9f17a9a.png",
+    "static/media/qr-whatsapp-07.png": "/static/media/qr-whatsapp-07.faf5b0a5bccf2c951c26.png",
+    "static/media/qr-whatsapp-01.png": "/static/media/qr-whatsapp-01.f02e0c1507f79d734964.png",
     "static/media/logo.png": "/static/media/logo.b94544a244cda6124a43.png",
     "static/media/menuButtonGlass.png": "/static/media/menuButtonGlass.e735e8ddacaad36b0035.png",
     "static/media/menuButton4.png": "/static/media/menuButton4.f111d141bccdcf911624.png",
@@ -37,12 +43,12 @@
     "static/media/menuButton2.png": "/static/media/menuButton2.52207621c3353e746729.png",
     "static/media/logoNOXSYS.png": "/static/media/logoNOXSYS.36323e8c6b1a6b8c877a.png",
     "index.html": "/index.html",
-    "main.543caf87.css.map": "/static/css/main.543caf87.css.map",
-    "main.cb9a5dc4.js.map": "/static/js/main.cb9a5dc4.js.map",
+    "main.e9693e44.css.map": "/static/css/main.e9693e44.css.map",
+    "main.304e0c4f.js.map": "/static/js/main.304e0c4f.js.map",
     "592.be9d5058.chunk.js.map": "/static/js/592.be9d5058.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.543caf87.css",
-    "static/js/main.cb9a5dc4.js"
+    "static/css/main.e9693e44.css",
+    "static/js/main.304e0c4f.js"
   ]
 }
