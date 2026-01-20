@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.950cc182.css",
-    "main.js": "/static/js/main.e3fa5987.js",
+    "main.js": "/static/js/main.69e81f46.js",
     "static/js/592.be9d5058.chunk.js": "/static/js/592.be9d5058.chunk.js",
     "static/media/office.png": "/static/media/office.8a9d5668c9adeac5bcee.png",
     "static/media/cert_it.jpg": "/static/media/cert_it.ad1abea97a7060303b37.jpg",
@@ -43,11 +43,11 @@
     "static/media/logoNOXSYS.png": "/static/media/logoNOXSYS.36323e8c6b1a6b8c877a.png",
     "index.html": "/index.html",
     "main.950cc182.css.map": "/static/css/main.950cc182.css.map",
-    "main.e3fa5987.js.map": "/static/js/main.e3fa5987.js.map",
+    "main.69e81f46.js.map": "/static/js/main.69e81f46.js.map",
     "592.be9d5058.chunk.js.map": "/static/js/592.be9d5058.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.950cc182.css",
-    "static/js/main.e3fa5987.js"
+    "static/js/main.69e81f46.js"
   ]
 }
