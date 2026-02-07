@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.abba15d1.css",
-    "main.js": "/static/js/main.2068b510.js",
+    "main.css": "/static/css/main.5fc0db92.css",
+    "main.js": "/static/js/main.84403ff3.js",
     "static/js/592.be9d5058.chunk.js": "/static/js/592.be9d5058.chunk.js",
     "static/media/office.png": "/static/media/office.8a9d5668c9adeac5bcee.png",
     "static/media/cert_it.jpg": "/static/media/cert_it.ad1abea97a7060303b37.jpg",
@@ -50,12 +50,12 @@
     "static/media/menuButton2.png": "/static/media/menuButton2.52207621c3353e746729.png",
     "static/media/logoNOXSYS.png": "/static/media/logoNOXSYS.36323e8c6b1a6b8c877a.png",
     "index.html": "/index.html",
-    "main.abba15d1.css.map": "/static/css/main.abba15d1.css.map",
-    "main.2068b510.js.map": "/static/js/main.2068b510.js.map",
+    "main.5fc0db92.css.map": "/static/css/main.5fc0db92.css.map",
+    "main.84403ff3.js.map": "/static/js/main.84403ff3.js.map",
     "592.be9d5058.chunk.js.map": "/static/js/592.be9d5058.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abba15d1.css",
-    "static/js/main.2068b510.js"
+    "static/css/main.5fc0db92.css",
+    "static/js/main.84403ff3.js"
   ]
 }
