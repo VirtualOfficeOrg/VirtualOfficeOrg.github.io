@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.74a8b0d6.css",
-    "main.js": "/static/js/main.b6c31c1c.js",
+    "main.js": "/static/js/main.280ae8af.js",
     "static/js/592.be9d5058.chunk.js": "/static/js/592.be9d5058.chunk.js",
     "static/media/office.png": "/static/media/office.8a9d5668c9adeac5bcee.png",
     "static/media/cert_it.jpg": "/static/media/cert_it.ad1abea97a7060303b37.jpg",
@@ -29,16 +29,12 @@
     "static/media/d3.png": "/static/media/d3.f4d3fab2722d29ac8c46.png",
     "static/media/g1glass.png": "/static/media/g1glass.5b2e4d3550deda3b546d.png",
     "static/media/kate_min.png": "/static/media/kate_min.f958ea2d08c5c0456818.png",
-    "static/media/qr-telegram-07.png": "/static/media/qr-telegram-07.1be0c545a573f9f3042b.png",
     "static/media/graph.png": "/static/media/graph.8418beaa033bcefd78a1.png",
-    "static/media/qr-telegram-01.png": "/static/media/qr-telegram-01.98aa0297d49fda27d525.png",
     "static/media/ios_min.png": "/static/media/ios_min.1900e4aa5074171d2da3.png",
     "static/media/ice_min.png": "/static/media/ice_min.9af697b51e1f0c858c50.png",
     "static/media/alex_min.png": "/static/media/alex_min.55bd460866e0e2b7920e.png",
     "static/media/d1glass.png": "/static/media/d1glass.2711567676c2cd5697b2.png",
     "static/media/menu.png": "/static/media/menu.91cb40157754c9f17a9a.png",
-    "static/media/qr-whatsapp-07.png": "/static/media/qr-whatsapp-07.faf5b0a5bccf2c951c26.png",
-    "static/media/qr-whatsapp-01.png": "/static/media/qr-whatsapp-01.f02e0c1507f79d734964.png",
     "static/media/roboto-latin-600-normal.woff2": "/static/media/roboto-latin-600-normal.21f032018057a0639e38.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/static/media/roboto-latin-700-normal.d89b03c583b9adb99987.woff2",
     "static/media/roboto-latin-800-normal.woff2": "/static/media/roboto-latin-800-normal.d9fd93d58042d0634b6c.woff2",
@@ -123,11 +119,11 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.5b51dabd754d1b37053e.woff",
     "index.html": "/index.html",
     "main.74a8b0d6.css.map": "/static/css/main.74a8b0d6.css.map",
-    "main.b6c31c1c.js.map": "/static/js/main.b6c31c1c.js.map",
+    "main.280ae8af.js.map": "/static/js/main.280ae8af.js.map",
     "592.be9d5058.chunk.js.map": "/static/js/592.be9d5058.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74a8b0d6.css",
-    "static/js/main.b6c31c1c.js"
+    "static/js/main.280ae8af.js"
   ]
 }
